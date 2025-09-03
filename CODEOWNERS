@@ -1,12 +1,12 @@
 # كل الكود لازم يراجعه فريق 
-* @Backend-team
+* @zaiaa-ai/Backend-team
 
 # ملفات بايثون يراجعها فريق ML
-*.py @AI-ML-team
+*.py @zaiaa-ai/AI-ML-team
 
 # ملفات الدوكيمينتيشن يراجعها فريق Docs
-docs/* @Frontend-team
+docs/* @zaiaa-ai/Frontend-team
 
 # ملف محدد يراجعه شخص واحد
-README.md @DevOps-team
+README.md @zaiaa-ai/DevOps-team
 
