@@ -5,7 +5,7 @@
 *.py @zaiaa-ai/AI-ML-team
 
 # ملفات الدوكيمينتيشن يراجعها فريق Docs
-docs/* @zaiaa-ai/Frontend-team
+docs/* @zaiaa-ai/Docs-team
 
 # ملف محدد يراجعه شخص واحد
 README.md @zaiaa-ai/DevOps-team
